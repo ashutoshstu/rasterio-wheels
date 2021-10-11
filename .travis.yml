@@ -17,7 +17,7 @@ env:
   - BUILD_COMMIT=1.2.8
   - PLAT=x86_64
   - UNICODE_WIDTH=32
-  - USE_CCACHE=1
+  #- USE_CCACHE=1
 
 addons:
   artifacts:
